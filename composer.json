@@ -1,0 +1,17 @@
+{
+    "name": "lvzhihui/test",
+    "descript":"lvzhihui protect",
+    "keyword":["lvzhihui"],
+    "homepage":"245673401@qq.com",
+    "license":["Apache-2.0","GPL-2.0+"],
+    "authors":[
+        {
+            "name":"lvzhihui",
+            "homepage":"245673401@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "files":["index.php"]
+    }
+}
